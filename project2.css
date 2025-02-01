@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border;
+}
+body{
+    background-color: #c5d5c5;
+    background-image: url(https://watermark.lovepik.com/photo/50054/1552.jpg_wh1200.jpg);
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+h1{
+    font-size: 50px;
+    padding-top: 100px;
+    color: white;
+}
+button{
+    background-color: #4CAF50;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 25px;
+}
+#password{
+    margin: 30px;
+    padding: 10px;
+    align-items: center;
+}
